@@ -1,0 +1,1 @@
+print("My favorite ice cream flavor is Mint Chocolate Chip")
